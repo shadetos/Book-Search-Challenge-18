@@ -5,7 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
-This website lets users search and save books to a collection that can be viewed at any time! To visit our site online click <a href='https://challenge-18.onrender.com'>this</a> link!
 
 ## Table of Contents
 
@@ -18,8 +17,7 @@ This website lets users search and save books to a collection that can be viewed
 - [Future-Features](#future-features)
 - [License](#license)
 - [Technologies](#technologies-used)
-- [Credits](#credits)
-- [Contact Me](#contact-me)
+
 
 ## Required Technologies
 
@@ -120,19 +118,4 @@ Licensed under the MIT license.
 <li>Node.js (for installing packages as well as building and running code).</li>
 <li>Visual Studio Code (for writing code).</li>
 <li>Mozila Web Docs and W3 Schools (for getting help with TypeScript).</li>
-</ul>
-
-## Credits
-
-<ul>
-<li>Joshua Pruitt (me)</li>
-<li>Coding bootcamp staff (for their help with Coding)</li>
-</ul>
-
-## Contact Me
-
-<ul>
-<li>My email: joshuapruitt6484@gmail.com</li>
-<li><a href=https://github.com/JoshuaPruitt>My GitHub</a></li>
-<li><a href=https://www.linkedin.com/in/joshua-pruitt-1a494a311>My LinkedIn</a></li>
 </ul>
